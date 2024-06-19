@@ -44,7 +44,7 @@ const Header = () => {
           <Link href="/services" className="block py-2" onClick={toggleMenu}>Services</Link>
           <Link href="/contact" className="block py-2" onClick={toggleMenu}>Contact</Link>
           <a 
-            href="https://wa.me/YOUR_PHONE_NUMBER" 
+            href="https://wa.me/923032913061" 
             className=" py-2 flex items-center" 
             target="_blank" 
             rel="noopener noreferrer"

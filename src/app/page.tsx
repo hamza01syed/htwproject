@@ -12,8 +12,9 @@ import ServicesSection from "@/components/Services";
 import Head from "next/head";
 import CustomLearning from "@/components/Learning";
 import Logos from "@/components/Logos";
+// import htlogo from "@/../public/images/htwlogo.jpg"
 
-function Home({ Component, pageProps }: AppProps) {
+function Home() {
   useEffect(() => {
     AOS.init({ duration: 1000 });
   }, []);
