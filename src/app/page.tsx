@@ -33,8 +33,8 @@ function Home() {
     {/* <CitiesSection/> */}
     {/* <TestimonialsSection/> */}
     <CustomLearning/>
-
-  </div>
+    </div>
+  
 }
 
 export default Home;

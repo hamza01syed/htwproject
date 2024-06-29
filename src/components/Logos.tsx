@@ -69,7 +69,7 @@ const Logos = () => {
                 className="rounded-lg shadow-lg h-auto w-auto"
               />
             </div>
-            <div className="board-logo" data-aos="fade-up" data-aos-delay="600">
+            {/* <div className="board-logo" data-aos="fade-up" data-aos-delay="600">
               <Image 
                 src={punjab} // replace with your actual image path
                 alt="Board 7"
@@ -77,8 +77,8 @@ const Logos = () => {
                 height={200}
                 className="rounded-lg shadow-lg h-auto w-auto"
               />
-            </div>
-            <div className="board-logo" data-aos="fade-up" data-aos-delay="700">
+            </div> */}
+            {/* <div className="board-logo" data-aos="fade-up" data-aos-delay="700">
               <Image 
                 src={lhr} // replace with your actual image path
                 alt="Board 8"
@@ -86,7 +86,7 @@ const Logos = () => {
                 height={200}
                 className="rounded-lg shadow-lg h-auto w-auto"
               />
-            </div>
+            </div> */}
           </div>
         </section>
         </main>
