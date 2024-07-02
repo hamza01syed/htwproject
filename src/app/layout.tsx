@@ -8,7 +8,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Home Tutors World",
-  description: "Personalized tutoring for all subjects and grades. Expert tutors, flexible schedules.",
+  description:
+    "Personalized tutoring for all subjects and grades. Expert tutors, flexible schedules.",
 };
 
 export default function RootLayout({
@@ -18,11 +19,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
-        <Header/>
+      <body className={`${inter.className} w-screen overflow-hidden`}>
+        <Header />
         {children}
-        <Footer/>
-        </body>
+        <Footer />
+      </body>
     </html>
   );
 }
