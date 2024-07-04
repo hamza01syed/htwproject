@@ -19,13 +19,13 @@ function Home() {
     AOS.init({ duration: 1000 });
   }, []);
 
-  return <div>
+  return <div className="max-w-screen-2xl">
     <Head>
         <title>Home Tutors World</title>
         <meta name="description" content="Find the best home tutors in major cities of Pakistan." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+    
     <HeroSection/>
     <About/>
     <Logos/>
@@ -34,6 +34,7 @@ function Home() {
     {/* <TestimonialsSection/> */}
     <CustomLearning/>
     </div>
+    
   
 }
 

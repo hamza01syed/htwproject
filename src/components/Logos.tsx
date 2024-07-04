@@ -11,7 +11,7 @@ import lhr from "@/../public/images/LHRlogo.png"
 
 const Logos = () => {
   return (
-    <main className="container mx-auto py-8 px-4">
+    <main className="container mx-auto w-full py-8 px-4">
         <section className="mb-12 text-center">
           <h2 className="text-3xl font-bold mb-8" data-aos="fade-up">Educational Boards We Support</h2>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 items-center">

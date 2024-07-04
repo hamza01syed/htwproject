@@ -4,7 +4,7 @@ import enrol from "@/../public/images/enrolpic.jpg"
 
 const CustomLearning = () => {
   return (
-    <section id="custom-learning" className="py-16 px-4 bg-gray-300">
+    <section id="custom-learning" className="py-16 px-4 w-full bg-gray-300">
       <div className="container mx-auto flex flex-col md:flex-row items-center">
         {/* Image on the left side */}
         <div className="w-full md:w-1/2 lg:w-[35%] mb-8 md:mb-0" data-aos="fade-right">

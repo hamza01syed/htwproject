@@ -7,7 +7,7 @@ import Image from "next/image";
 
 const HeroSection = () => {
   return (
-    <section className="relative bg-blue-500 text-white">
+    <section className="relative bg-blue-500 text-white w-full">
       <Carousel
         autoPlay
         infiniteLoop
