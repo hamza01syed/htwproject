@@ -8,7 +8,7 @@ const Footer = () => {
         {/* Logo and Description */}
         <div className="flex-1">
           <h2 className="text-2xl font-bold mb-4">Home Tutors World</h2>
-          <p>Connecting students with the best home tutors in major cities of Pakistan.</p>
+          <p>Connecting students with the best home tutors in PAK,KSA and UAE.</p>
         </div>
         
         {/* Navigation Links */}

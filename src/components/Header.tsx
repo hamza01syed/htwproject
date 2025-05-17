@@ -21,6 +21,11 @@ const Header = () => {
           <Link href="/about" className="mx-2">About</Link>
           <Link href="/services" className="mx-2">Services</Link>
           <Link href="/contact" className="mx-2">Contact</Link>
+          <select className="bg-blue-400 mx-2 px-1 py-2 rounded-lg text-white cursor-pointer mt-2">
+                <option className='text-green-300' value="pak">Pakistan (Pak)</option>
+                <option className='text-green-900' value="ksa">Saudi Arabia (KSA)</option>
+                <option className="text-red-800" value="uae">United Arab Emirates (UAE)</option>
+            </select>
           <a 
             href="https://wa.me/923032913061" 
             className="mx-2 flex items-center" 

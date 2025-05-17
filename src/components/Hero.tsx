@@ -28,8 +28,8 @@ const HeroSection = () => {
                 Welcome to Home Tutors World
               </h2>
               <p className="text-lg mb-4">
-                Connecting students with the best home tutors in major cities of
-                Pakistan.
+                Connecting students with the best home tutors in Pakistan,Saudi Arabia and
+                UAE.
               </p>
               <button className="bg-white text-blue-500 font-bold py-2 px-4 rounded">
                 Get Started

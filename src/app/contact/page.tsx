@@ -26,7 +26,7 @@ const Contact: NextPage = () => {
           <div className="contact-info p-6 bg-white rounded-lg shadow-md" data-aos="fade-up">
             <h2 className="text-2xl font-bold mb-4">Parents/Students Inquiry</h2>
             <p className="text-lg text-gray-700 mb-2">
-              <strong>Contact:</strong> 03032913061
+              <strong>Contact:</strong> +92-3032913061
             </p>
             <p className="text-lg text-gray-700 mb-2">
               <strong>Chat with us:</strong> Click the button below to open WhatsApp chat.

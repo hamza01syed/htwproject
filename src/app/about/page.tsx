@@ -7,7 +7,7 @@ const AboutPage = () => {
         <div className="max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8">
             <Head>
                 <title>About Us - Home Tutors World</title>
-                <meta name="description" content="Learn about Home Tutors World, connecting students with the best home tutors in major cities of Pakistan." />
+                <meta name="description" content="Learn about Home Tutors World, connecting students with the best home tutors in major cities of Pakistan,KSA and UAE." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -21,7 +21,7 @@ const AboutPage = () => {
                         <div className="w-full lg:w-2/3 lg:pl-12" data-aos="fade-left">
                             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-center lg:text-left">About Home Tutors World</h1>
                             <p className="text-base md:text-lg leading-relaxed text-center lg:text-left">
-                                Home Tutors World is committed to providing personalized tutoring services that cater to the unique needs of students in major cities of Pakistan. We believe in nurturing academic excellence through tailored learning plans and dedicated tutors.
+                                Home Tutors World is committed to providing personalized tutoring services that cater to the unique needs of students in Pakistan,KSA and UAE. We believe in nurturing academic excellence through tailored learning plans and dedicated tutors.
                             </p>
                         </div>
                     </div>
