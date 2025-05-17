@@ -48,6 +48,11 @@ const Header = () => {
           <Link href="/about" className="block py-2" onClick={toggleMenu}>About</Link>
           <Link href="/services" className="block py-2" onClick={toggleMenu}>Services</Link>
           <Link href="/contact" className="block py-2" onClick={toggleMenu}>Contact</Link>
+          <select className="bg-blue-400 mb-2 px-1 py-2 rounded-lg cursor-pointer mt-2">
+                <option className='text-green-300' value="pak">Pakistan (Pak)</option>
+                <option className='text-green-900' value="ksa">Saudi Arabia (KSA)</option>
+                <option className="text-red-800" value="uae">United Arab Emirates (UAE)</option>
+            </select>
           <a 
             href="https://wa.me/923032913061" 
             className=" py-2 flex items-center" 
